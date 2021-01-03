@@ -15,7 +15,7 @@ Bottom Exposure time: 15-17.5s
 Bulge Busting Method: Reduction + Pixel Dimming
 BB Settings: -10px reduction | 40% dimming
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tests Conducted on 3/1/2021
 Test 1: Resin Exposure Test V2 (https://github.com/Photonsters/Resin-exposure-finder-v2/releases?fbclid=IwAR3hrCXqKMlwHnAaABLnkbuglFiruxyTAbbeCAbrL6l95PZbqFXgJUWzCpY)
@@ -29,7 +29,9 @@ Bottom Exposure Time: 17.5-20s
 Due to the transparent/Translucent nature of the material, it was not easy to visually compare the test strip results.
 Having used this resin at 2s exposure before and having some success, it seems that the multiple pulse exposure of this test also results in more failures as compared to a constant exposure (eg 4x0.5s vs 2s)
 
-Test 2: Nerdtronic BulgeBuster (Reducing/Compensating for elephants foot)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Test 2: Nerdtronic BulgeBuster (Reducing/Compensating for elephants foot) https://nerdtronic3d.com/bulgebuster/
 I performed two sets of tests, at 3.0s and 4.0s exposure times|12s and 20s bottom exposure times
 The LD-002H supports pixel dimming, so that feature will be tested as well as it provides better results as compared to only pixel reduction.
 
